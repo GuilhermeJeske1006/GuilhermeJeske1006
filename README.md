@@ -1,6 +1,6 @@
 # Guilherme Jeske - Desenvolvedor Fullstack
 
-Olá! 👋 Tudo bem? Me chamo Guilherme Jeske, sou um profissional com mais de 2 anos de experiência nas áreas de desenvolvimento de sistemas fullstack. Abaixo estão algumas das atividades em que possuo conhecimento:
+Olá! 👋 Tudo bem? Me chamo Guilherme Jeske, sou um profissional com mais de 3 anos de experiência nas áreas de desenvolvimento de sistemas fullstack. Abaixo estão algumas das atividades em que possuo conhecimento:
 
 ## Principais Habilidades
 
@@ -28,7 +28,7 @@ Olá! 👋 Tudo bem? Me chamo Guilherme Jeske, sou um profissional com mais de 2
 
 ## Formação Acadêmica
 
-- Cursando o penúltimo semestre de Análise e Desenvolvimento de Sistemas (ADS) na Universidade SENAC
+- Curso de Análise e Desenvolvimento de Sistemas (ADS) na Universidade SENAC
 - Curso Técnico de Desenvolvimento de Sistemas pelo SENAI
 
 ## Contato
